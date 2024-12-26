@@ -1,0 +1,34 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Dependency directories
+/vendor/
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.iml
+
+# Go workspace file
+go.work
+
+# Build and temp files
+*.log
+*.pid
+*.swp
+*.bak
+
+# Coverage files
+*.coverprofile
+
+# Other temporary files
+*.tmp
+
+# Environment files
+.envrc
